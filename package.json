@@ -1,0 +1,25 @@
+{
+  "name": "algorithm-exercise",
+  "version": "1.0.0",
+  "description": "algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuoqi-chen/algorithm-exercise.git"
+  },
+  "keywords": [
+    "algorithm"
+  ],
+  "author": "zhuoqi_chen@126.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhuoqi-chen/algorithm-exercise/issues"
+  },
+  "homepage": "https://github.com/zhuoqi-chen/algorithm-exercise#readme",
+  "devDependencies": {
+    "jest": "^23.1.0"
+  }
+}
