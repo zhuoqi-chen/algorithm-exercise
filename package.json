@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/zhuoqi-chen/algorithm-exercise#readme",
   "devDependencies": {
-    "jest": "^23.1.0"
+    "jest": "^29.3.1"
   }
 }
